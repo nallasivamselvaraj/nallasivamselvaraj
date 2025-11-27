@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software & DevOps Engineer
+Software Engineer
 
 
 ## 🌐 Socials:

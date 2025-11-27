@@ -1,5 +1,5 @@
 #  I'm **Nallasivam Selvaraj**
-### **Software Engineer | DevOps Engineer | Cloud | Python & C++ (Qt) Developer**
+### **Software Engineer**
 
 I’m a passionate Software Engineer experienced in **Cloud Computing, DevOps, Embedded Systems, IoT, Python, C++, and Full-Stack Development**.  
 I love building scalable systems, automating pipelines, designing intuitive UIs, and crafting reliable end-to-end software solutions.
